@@ -63,3 +63,4 @@ If you use any JS features, ensure your users’ browsers support them, or inclu
 2. Customize the content and styling as described above.  
 3. Test the site locally (open `index.html` in a browser).  
 4. Deploy to your hosting solution.
+5. [Reference URL](https://docs.google.com/document/d/1W4bzfHPAyh2t5sNZ-rSIhueb1V9G2jmOhhLT8nKcuDk/edit?tab=t.0#heading=h.8sny8y6vsrjw)
